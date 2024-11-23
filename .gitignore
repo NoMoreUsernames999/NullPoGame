@@ -1,10 +1,10 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Rider ignored files
 /.idea.NuruPoGame.iml
 /modules.xml
-/projectSettingsUpdater.xml
+/.idea/projectSettingsUpdater.xml
 /contentModel.xml
 # Editor-based HTTP Client requests
 /httpRequests/
